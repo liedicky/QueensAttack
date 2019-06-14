@@ -1,6 +1,8 @@
 # QueensAttack
 Solution to Queen's Attack 2 problem from www.hackerrank.com
 
+reference: https://www.hackerrank.com/challenges/queens-attack-2/problem
+
 Function Description
 
 Complete the queensAttack function in the editor below. It should return an integer that describes the number of squares the queen can attack.
